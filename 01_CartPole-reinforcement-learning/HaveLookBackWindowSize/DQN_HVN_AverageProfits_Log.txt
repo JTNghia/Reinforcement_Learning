@@ -1,0 +1,6 @@
+TestImage/DQN_HVN_Episode(16)_Episode(252).png: -213.83292480795694
+TestImage/DQN_HVN_Episode(16)_Episode(189).png: 55.580834324961344
+TestImage/DQN_HVN_Episode(16)_Episode(126).png: 116.49479000112709
+TestImage/DQN_HVN_Episode(16)_Episode(63).png: 5.679040242680871
+TestImage/DQN_HVN_Episode(16)_Episode(21).png: -30.88948655521829
+TestImage/DQN_HVN_Episode(16)_Episode(10).png: 0.0
